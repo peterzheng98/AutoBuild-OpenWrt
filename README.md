@@ -13,7 +13,7 @@ You could edit and enable "Sync Code" YAML file to let your forked repo keep upd
 ## Usage
 
 🔥🔥[Video Tutorial (in Mandrin) | 视频教程(国语)](https://youtu.be/9YO7nxNry-4)📺🎉
-
+ 
 **1. Prerequisite**
   - Sign up for [GitHub Actions](https://github.com/features/actions/signup)
   - Fork [this GitHub repository](https://github.com/esirplayground/AutoBuild-OpenWrt)
